@@ -24,7 +24,7 @@ const MyPostedJobs = () => {
                             <th>Job Title</th>
                             <th>Deadline</th>
                             <th>Application Count</th>
-                            <th>Applications</th>
+                            <th>Applications</ th>
                         </tr>
                     </thead>
                     <tbody>
